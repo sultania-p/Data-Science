@@ -17,3 +17,5 @@ Below are the programming languages covered as part of my learning.
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+[<img align="left" alt="R" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="35px" src="https://as2.ftcdn.net/v2/jpg/02/98/27/91/1000_F_298279136_WJ7q0Fm8RdHRg6syM7VjlF7mfsxBEMha.jpg" style="padding-right:10px;" />]
