@@ -14,7 +14,7 @@ Below are the programming languages covered as part of my learning.
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="SQL" width="20px" src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 [<img align="left" alt="R" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" style="padding-right:10px;" />]
