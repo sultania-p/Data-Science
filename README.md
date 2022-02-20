@@ -1,6 +1,6 @@
-# <font color = 'Blue'> Data Science </font>
+# <font color = 'Blue'> Learning Data Science </font>
 
-## Welcome! This is my data science repository...
+## Welcome! This is my Data science Repository...
 
 Below are the programming languages covered as part of my learning.
 
