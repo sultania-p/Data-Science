@@ -1,6 +1,6 @@
 # <font color = 'Blue'> Data Science </font>
 
-## Welcome! This is my data science repository. I am a begineer to data science but I am very excited towards this learning journey.
+## Welcome! This is my data science repository...
 
 Below are the programming languages covered as part of my learning.
 
