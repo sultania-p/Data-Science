@@ -1,6 +1,6 @@
-# <font color = 'Blue'> Data Science </font>
+# <font color = 'Blue'> Learning Data Science </font>
 
-## Welcome! This is my data science repository. I am a begineer to data science but I am very excited towards this learning journey.
+## Welcome! This is my Data science Repository...
 
 Below are the programming languages covered as part of my learning.
 
@@ -14,7 +14,6 @@ Below are the programming languages covered as part of my learning.
 
 ### Languages and Tools:
 
-[<img align="left" alt="Oracle" width="26px" src="https://pdjmaster.files.wordpress.com/2020/04/oracle-database.png" style="padding-right:10px;" />]
 [<img align="left" alt="SQL" width="20px" src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
